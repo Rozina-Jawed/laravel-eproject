@@ -39,10 +39,10 @@ A full-stack Healthcare Management System built using Laravel to manage patients
 ## 📂 Project Links
 
 - 🔗 GitHub Repository:  
-  https://github.com/aalishbaifftikhar/Laravelproject  
+https://github.com/Rozina-Jawed/laravel-eproject.git
 
 - 🎥 Project Demo:  
-  (https://drive.google.com/file/d/1ZK6EXV6CuEnNhQWvKzz2Jlo8ySU3eI5S/view?usp=drive_link)
+https://drive.google.com/file/d/1v5qL0V5EwFFrCyKN2XkOy8qyITkbqy7l/view?usp=sharing
 
 ---
 
